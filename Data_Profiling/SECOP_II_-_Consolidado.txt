@@ -1,0 +1,84 @@
+(1030, 40) 
+ Entidad Compradora                object
+NIT Entidad Compradora             int64
+ID Proceso                        object
+ID Solicitud de Proceso           object
+Identificador Operación           object
+Descripción Contrato              object
+Modalidad Contratación            object
+ID Contrato                       object
+Tipo de Contrato                  object
+Fecha Inicio Contrato             object
+Fecha Fin Contrato                object
+Fecha Inicio Ejecucion            object
+Fecha Fin Ejecucion               object
+Fecha Creación Contrato           object
+Condiciones de Entrega            object
+Entidad Proveedora                object
+NIT Entidad Proveedora           float64
+Es Grupo-Unión                    object
+Estado Contrato                   object
+Precio Base de la Propuesta       object
+Valor Contrato                    object
+Porcentaje Anticipo               object
+Valor Anticipo                    object
+Valor Facturado                   object
+Código Categoria                  object
+Descripción Categoria             object
+Categoria Nivel 1                 object
+Categoria Nivel 2                 object
+Categoria Nivel 3                 object
+Categoria Nivel 4                 object
+Categoria Nivel 5                 object
+Segmento                          object
+Departamento                      object
+Municipio                         object
+ID Adjudicacion                   object
+Fecha Inicio Liquidación          object
+Fecha Final Liquidación           object
+Comentarios Internos Contrato     object
+Número de Adendas                  int64
+URLContrato                       object
+ Entidad Compradora                0
+NIT Entidad Compradora            0
+ID Proceso                        0
+ID Solicitud de Proceso           0
+Identificador Operación           0
+Descripción Contrato              0
+Modalidad Contratación            0
+ID Contrato                       0
+Tipo de Contrato                  0
+Fecha Inicio Contrato             0
+Fecha Fin Contrato                0
+Fecha Inicio Ejecucion            0
+Fecha Fin Ejecucion               0
+Fecha Creación Contrato           0
+Condiciones de Entrega            0
+Entidad Proveedora                0
+NIT Entidad Proveedora            8
+Es Grupo-Unión                    0
+Estado Contrato                   0
+Precio Base de la Propuesta       0
+Valor Contrato                    0
+Porcentaje Anticipo               0
+Valor Anticipo                    0
+Valor Facturado                   0
+Código Categoria                  0
+Descripción Categoria             0
+Categoria Nivel 1                 0
+Categoria Nivel 2                 0
+Categoria Nivel 3                 0
+Categoria Nivel 4                 0
+Categoria Nivel 5                 0
+Segmento                          0
+Departamento                      8
+Municipio                        52
+ID Adjudicacion                   0
+Fecha Inicio Liquidación          0
+Fecha Final Liquidación           0
+Comentarios Internos Contrato     0
+Número de Adendas                 0
+URLContrato                       0
+dtype: int64
+ 0 
+ 68

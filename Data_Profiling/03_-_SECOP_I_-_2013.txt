@@ -1,0 +1,116 @@
+(658380, 56) 
+ Nivel Entidad                                      object
+Orden Entidad                                      object
+Nombre de la Entidad                               object
+NIT de la Entidad                                  object
+ID Tipo de Proceso                                  int64
+Tipo de Proceso                                    object
+Estado del Proceso                                 object
+Causal de Otras Formas de Contratacion Directa     object
+ID Regimen de Contratacion                          int64
+Regimen de Contratacion                            object
+ID Objeto a Contratar                               int64
+Objeto a Contratar                                 object
+Detalle del Objeto a Contratar                     object
+Tipo de Contrato                                   object
+Municipio Obtencion                                object
+Municipio Entrega                                  object
+Municipios Ejecucion                               object
+Fecha de Cargue en el SECOP                        object
+Numero de Constancia                               object
+Numero de Proceso                                  object
+Numero del Contrato                                object
+Cuantia Proceso                                    object
+ID Grupo                                           object
+Nombre Grupo                                       object
+ID Familia                                          int64
+Nombre Familia                                     object
+ID Clase                                            int64
+Nombre Clase                                       object
+ID Ajudicacion                                      int64
+Tipo Identifi del Contratista                      object
+Identificacion del Contratista                     object
+Nom Raz Social Contratista                         object
+Dpto y Muni Contratista                            object
+Tipo Doc Representante Legal                       object
+Identific del Represen Legal                       object
+Nombre del Represen Legal                          object
+Fecha de Firma del Contrato                        object
+Fecha Ini Ejec Contrato                            object
+Plazo de Ejec del Contrato                        float64
+Rango de Ejec del Contrato                         object
+Tiempo Adiciones en Dias                            int64
+Tiempo Adiciones en Meses                           int64
+Fecha Fin Ejec Contrato                            object
+Compromiso Presupuestal                            object
+Cuantia Contrato                                   object
+Valor Total de Adiciones                           object
+Valor Contrato con Adiciones                       object
+Objeto del Contrato a la Firma                     object
+ID Origen de los Recursos                           int64
+Origen de los Recursos                             object
+Codigo BPIN                                         int64
+Proponentes Seleccionados                          object
+Calificacion Definitiva                            object
+ID Sub Unidad Ejecutora                            object
+Nombre Sub Unidad Ejecutora                        object
+Ruta Proceso en SECOP I                            object
+ Nivel Entidad                                         0
+Orden Entidad                                         0
+Nombre de la Entidad                                  0
+NIT de la Entidad                                     0
+ID Tipo de Proceso                                    0
+Tipo de Proceso                                       0
+Estado del Proceso                                    0
+Causal de Otras Formas de Contratacion Directa        0
+ID Regimen de Contratacion                            0
+Regimen de Contratacion                               0
+ID Objeto a Contratar                                 0
+Objeto a Contratar                                    0
+Detalle del Objeto a Contratar                     1456
+Tipo de Contrato                                      0
+Municipio Obtencion                                   0
+Municipio Entrega                                     0
+Municipios Ejecucion                                  5
+Fecha de Cargue en el SECOP                           0
+Numero de Constancia                                  0
+Numero de Proceso                                    69
+Numero del Contrato                                  10
+Cuantia Proceso                                       0
+ID Grupo                                              0
+Nombre Grupo                                          0
+ID Familia                                            0
+Nombre Familia                                        0
+ID Clase                                              0
+Nombre Clase                                          0
+ID Ajudicacion                                        0
+Tipo Identifi del Contratista                         0
+Identificacion del Contratista                       20
+Nom Raz Social Contratista                           10
+Dpto y Muni Contratista                               0
+Tipo Doc Representante Legal                          0
+Identific del Represen Legal                       6225
+Nombre del Represen Legal                          7942
+Fecha de Firma del Contrato                       62772
+Fecha Ini Ejec Contrato                           62772
+Plazo de Ejec del Contrato                            0
+Rango de Ejec del Contrato                            0
+Tiempo Adiciones en Dias                              0
+Tiempo Adiciones en Meses                             0
+Fecha Fin Ejec Contrato                           69030
+Compromiso Presupuestal                               0
+Cuantia Contrato                                      0
+Valor Total de Adiciones                              0
+Valor Contrato con Adiciones                          0
+Objeto del Contrato a la Firma                       58
+ID Origen de los Recursos                             0
+Origen de los Recursos                                0
+Codigo BPIN                                           0
+Proponentes Seleccionados                          4888
+Calificacion Definitiva                            5802
+ID Sub Unidad Ejecutora                               0
+Nombre Sub Unidad Ejecutora                           0
+Ruta Proceso en SECOP I                               0
+dtype: int64
+ 51 
+ 221059
