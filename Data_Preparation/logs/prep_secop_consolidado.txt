@@ -1,0 +1,740 @@
+FORMA DE LOS DATOS:
+(4308983, 55)
+
+TIPOS DE DATOS:
+Nivel Entidad                                      object
+Orden Entidad                                      object
+Nombre de la Entidad                               object
+NIT de la Entidad                                  object
+ID Tipo de Proceso                                 object
+Estado del Proceso                                 object
+Causal de Otras Formas de Contratacion Directa     object
+ID Regimen de Contratacion                        float64
+Regimen de Contratacion                            object
+ID Objeto a Contratar                               int64
+Objeto a Contratar                                 object
+Detalle del Objeto a Contratar                     object
+Tipo de Contrato                                   object
+Municipio Obtencion                                object
+Municipio Entrega                                  object
+Municipios Ejecucion                               object
+Fecha de Cargue en el SECOP                        object
+Numero de Constancia                               object
+Numero de Proceso                                  object
+Numero del Contrato                                object
+Cuantia Proceso                                    object
+ID Grupo                                           object
+Nombre Grupo                                       object
+ID Familia                                          int64
+Nombre Familia                                     object
+ID Clase                                            int64
+Nombre Clase                                       object
+ID Ajudicacion                                      int64
+Tipo Identifi del Contratista                      object
+Identificacion del Contratista                     object
+Nom Raz Social Contratista                         object
+Dpto y Muni Contratista                            object
+Tipo Doc Representante Legal                       object
+Identific del Represen Legal                       object
+Nombre del Represen Legal                          object
+Fecha de Firma del Contrato                        object
+Fecha Ini Ejec Contrato                            object
+Plazo de Ejec del Contrato                        float64
+Rango de Ejec del Contrato                         object
+Tiempo Adiciones en Dias                            int64
+Tiempo Adiciones en Meses                           int64
+Fecha Fin Ejec Contrato                            object
+Compromiso Presupuestal                            object
+Cuantia Contrato                                   object
+Valor Total de Adiciones                           object
+Valor Contrato con Adiciones                       object
+Objeto del Contrato a la Firma                     object
+ID Origen de los Recursos                           int64
+Origen de los Recursos                             object
+Codigo BPIN                                         int64
+Proponentes Seleccionados                          object
+Calificacion Definitiva                            object
+ID Sub Unidad Ejecutora                            object
+Nombre Sub Unidad Ejecutora                        object
+Ruta Proceso en SECOP I                            object
+dtype: object
+
+DATOS NULOS:
+Nivel Entidad                                           0
+Orden Entidad                                           0
+Nombre de la Entidad                                    0
+NIT de la Entidad                                       0
+ID Tipo de Proceso                                      0
+Estado del Proceso                                      0
+Causal de Otras Formas de Contratacion Directa          0
+ID Regimen de Contratacion                             13
+Regimen de Contratacion                                13
+ID Objeto a Contratar                                   0
+Objeto a Contratar                                      0
+Detalle del Objeto a Contratar                       1480
+Tipo de Contrato                                        0
+Municipio Obtencion                                     0
+Municipio Entrega                                       0
+Municipios Ejecucion                              1785281
+Fecha de Cargue en el SECOP                             0
+Numero de Constancia                                    0
+Numero de Proceso                                    2602
+Numero del Contrato                                   488
+Cuantia Proceso                                         0
+ID Grupo                                                0
+Nombre Grupo                                            0
+ID Familia                                              0
+Nombre Familia                                          0
+ID Clase                                                0
+Nombre Clase                                            0
+ID Ajudicacion                                          0
+Tipo Identifi del Contratista                           0
+Identificacion del Contratista                        172
+Nom Raz Social Contratista                             89
+Dpto y Muni Contratista                                 0
+Tipo Doc Representante Legal                            0
+Identific del Represen Legal                        31104
+Nombre del Represen Legal                           38111
+Fecha de Firma del Contrato                        526808
+Fecha Ini Ejec Contrato                            526808
+Plazo de Ejec del Contrato                              0
+Rango de Ejec del Contrato                              2
+Tiempo Adiciones en Dias                                0
+Tiempo Adiciones en Meses                               0
+Fecha Fin Ejec Contrato                            539278
+Compromiso Presupuestal                                 0
+Cuantia Contrato                                        0
+Valor Total de Adiciones                                0
+Valor Contrato con Adiciones                            0
+Objeto del Contrato a la Firma                        108
+ID Origen de los Recursos                               0
+Origen de los Recursos                                  0
+Codigo BPIN                                             0
+Proponentes Seleccionados                            5388
+Calificacion Definitiva                              6904
+ID Sub Unidad Ejecutora                                 0
+Nombre Sub Unidad Ejecutora                             0
+Ruta Proceso en SECOP I                                 0
+dtype: int64
+FORMA DE LOS DATOS:
+(4257251, 51)
+
+TIPOS DE DATOS:
+Nivel Entidad                                      object
+Orden Entidad                                      object
+Nombre de la Entidad                               object
+NIT de la Entidad                                  object
+ID Tipo de Proceso                                 object
+Estado del Proceso                                 object
+Causal de Otras Formas de Contratacion Directa     object
+ID Regimen de Contratacion                        float64
+Regimen de Contratacion                            object
+ID Objeto a Contratar                               int64
+Objeto a Contratar                                 object
+Detalle del Objeto a Contratar                     object
+Tipo de Contrato                                   object
+Municipio Obtencion                                object
+Municipio Entrega                                  object
+Fecha de Cargue en el SECOP                        object
+Numero de Constancia                               object
+Numero de Proceso                                  object
+Numero del Contrato                                object
+Cuantia Proceso                                    object
+ID Grupo                                           object
+Nombre Grupo                                       object
+ID Familia                                          int64
+Nombre Familia                                     object
+ID Clase                                            int64
+Nombre Clase                                       object
+ID Ajudicacion                                      int64
+Tipo Identifi del Contratista                      object
+Identificacion del Contratista                     object
+Nom Raz Social Contratista                         object
+Dpto y Muni Contratista                            object
+Tipo Doc Representante Legal                       object
+Identific del Represen Legal                       object
+Nombre del Represen Legal                          object
+Plazo de Ejec del Contrato                        float64
+Rango de Ejec del Contrato                         object
+Tiempo Adiciones en Dias                            int64
+Tiempo Adiciones en Meses                           int64
+Compromiso Presupuestal                            object
+Cuantia Contrato                                   object
+Valor Total de Adiciones                           object
+Valor Contrato con Adiciones                       object
+Objeto del Contrato a la Firma                     object
+ID Origen de los Recursos                           int64
+Origen de los Recursos                             object
+Codigo BPIN                                         int64
+Proponentes Seleccionados                          object
+Calificacion Definitiva                            object
+ID Sub Unidad Ejecutora                            object
+Nombre Sub Unidad Ejecutora                        object
+Ruta Proceso en SECOP I                            object
+dtype: object
+
+DATOS NULOS:
+Nivel Entidad                                     0
+Orden Entidad                                     0
+Nombre de la Entidad                              0
+NIT de la Entidad                                 0
+ID Tipo de Proceso                                0
+Estado del Proceso                                0
+Causal de Otras Formas de Contratacion Directa    0
+ID Regimen de Contratacion                        0
+Regimen de Contratacion                           0
+ID Objeto a Contratar                             0
+Objeto a Contratar                                0
+Detalle del Objeto a Contratar                    0
+Tipo de Contrato                                  0
+Municipio Obtencion                               0
+Municipio Entrega                                 0
+Fecha de Cargue en el SECOP                       0
+Numero de Constancia                              0
+Numero de Proceso                                 0
+Numero del Contrato                               0
+Cuantia Proceso                                   0
+ID Grupo                                          0
+Nombre Grupo                                      0
+ID Familia                                        0
+Nombre Familia                                    0
+ID Clase                                          0
+Nombre Clase                                      0
+ID Ajudicacion                                    0
+Tipo Identifi del Contratista                     0
+Identificacion del Contratista                    0
+Nom Raz Social Contratista                        0
+Dpto y Muni Contratista                           0
+Tipo Doc Representante Legal                      0
+Identific del Represen Legal                      0
+Nombre del Represen Legal                         0
+Plazo de Ejec del Contrato                        0
+Rango de Ejec del Contrato                        0
+Tiempo Adiciones en Dias                          0
+Tiempo Adiciones en Meses                         0
+Compromiso Presupuestal                           0
+Cuantia Contrato                                  0
+Valor Total de Adiciones                          0
+Valor Contrato con Adiciones                      0
+Objeto del Contrato a la Firma                    0
+ID Origen de los Recursos                         0
+Origen de los Recursos                            0
+Codigo BPIN                                       0
+Proponentes Seleccionados                         0
+Calificacion Definitiva                           0
+ID Sub Unidad Ejecutora                           0
+Nombre Sub Unidad Ejecutora                       0
+Ruta Proceso en SECOP I                           0
+dtype: int64
+FORMA DE LOS DATOS:
+(4257251, 51)
+
+TIPOS DE DATOS:
+Nivel Entidad                                      object
+Orden Entidad                                      object
+Nombre de la Entidad                               object
+NIT de la Entidad                                  object
+ID Tipo de Proceso                                 object
+Estado del Proceso                                 object
+Causal de Otras Formas de Contratacion Directa     object
+ID Regimen de Contratacion                        float64
+Regimen de Contratacion                            object
+ID Objeto a Contratar                               int64
+Objeto a Contratar                                 object
+Detalle del Objeto a Contratar                     object
+Tipo de Contrato                                   object
+Municipio Obtencion                                object
+Municipio Entrega                                  object
+Fecha de Cargue en el SECOP                        object
+Numero de Constancia                               object
+Numero de Proceso                                  object
+Numero del Contrato                                object
+Cuantia Proceso                                    object
+ID Grupo                                           object
+Nombre Grupo                                       object
+ID Familia                                          int64
+Nombre Familia                                     object
+ID Clase                                            int64
+Nombre Clase                                       object
+ID Ajudicacion                                      int64
+Tipo Identifi del Contratista                      object
+Identificacion del Contratista                     object
+Nom Raz Social Contratista                         object
+Dpto y Muni Contratista                            object
+Tipo Doc Representante Legal                       object
+Identific del Represen Legal                       object
+Nombre del Represen Legal                          object
+Plazo de Ejec del Contrato                        float64
+Rango de Ejec del Contrato                         object
+Tiempo Adiciones en Dias                            int64
+Tiempo Adiciones en Meses                           int64
+Compromiso Presupuestal                            object
+Cuantia Contrato                                   object
+Valor Total de Adiciones                           object
+Valor Contrato con Adiciones                       object
+Objeto del Contrato a la Firma                     object
+ID Origen de los Recursos                           int64
+Origen de los Recursos                             object
+Codigo BPIN                                         int64
+Proponentes Seleccionados                          object
+Calificacion Definitiva                            object
+ID Sub Unidad Ejecutora                            object
+Nombre Sub Unidad Ejecutora                        object
+Ruta Proceso en SECOP I                            object
+dtype: object
+
+DATOS NULOS:
+Nivel Entidad                                          0
+Orden Entidad                                          0
+Nombre de la Entidad                                   0
+NIT de la Entidad                                 747129
+ID Tipo de Proceso                                     0
+Estado del Proceso                                     0
+Causal de Otras Formas de Contratacion Directa         0
+ID Regimen de Contratacion                             0
+Regimen de Contratacion                                0
+ID Objeto a Contratar                                  0
+Objeto a Contratar                                     0
+Detalle del Objeto a Contratar                         0
+Tipo de Contrato                                       0
+Municipio Obtencion                                    0
+Municipio Entrega                                      0
+Fecha de Cargue en el SECOP                            0
+Numero de Constancia                                   0
+Numero de Proceso                                      0
+Numero del Contrato                                    0
+Cuantia Proceso                                        0
+ID Grupo                                               0
+Nombre Grupo                                           0
+ID Familia                                             0
+Nombre Familia                                         0
+ID Clase                                               0
+Nombre Clase                                           0
+ID Ajudicacion                                         0
+Tipo Identifi del Contratista                          0
+Identificacion del Contratista                         0
+Nom Raz Social Contratista                             0
+Dpto y Muni Contratista                                0
+Tipo Doc Representante Legal                           0
+Identific del Represen Legal                           0
+Nombre del Represen Legal                              0
+Plazo de Ejec del Contrato                             0
+Rango de Ejec del Contrato                             0
+Tiempo Adiciones en Dias                               0
+Tiempo Adiciones en Meses                              0
+Compromiso Presupuestal                                0
+Cuantia Contrato                                       0
+Valor Total de Adiciones                               0
+Valor Contrato con Adiciones                           0
+Objeto del Contrato a la Firma                         0
+ID Origen de los Recursos                              0
+Origen de los Recursos                                 0
+Codigo BPIN                                            0
+Proponentes Seleccionados                              0
+Calificacion Definitiva                                0
+ID Sub Unidad Ejecutora                                0
+Nombre Sub Unidad Ejecutora                            0
+Ruta Proceso en SECOP I                                0
+dtype: int64
+
+DATOS NULOS:
+Nivel Entidad                                          0
+Orden Entidad                                          0
+Nombre de la Entidad                                   0
+NIT de la Entidad                                 747129
+ID Tipo de Proceso                                     0
+Estado del Proceso                                     0
+Causal de Otras Formas de Contratacion Directa         0
+ID Regimen de Contratacion                             0
+Regimen de Contratacion                                0
+ID Objeto a Contratar                                  0
+Objeto a Contratar                                     0
+Detalle del Objeto a Contratar                         0
+Tipo de Contrato                                       0
+Municipio Obtencion                                    0
+Municipio Entrega                                      0
+Fecha de Cargue en el SECOP                            0
+Numero de Constancia                                   0
+Numero de Proceso                                      0
+Numero del Contrato                                    0
+Cuantia Proceso                                        0
+ID Grupo                                               0
+Nombre Grupo                                           0
+ID Familia                                             0
+Nombre Familia                                         0
+ID Clase                                               0
+Nombre Clase                                           0
+ID Ajudicacion                                         0
+Tipo Identifi del Contratista                          0
+Identificacion del Contratista                    529748
+Nom Raz Social Contratista                             0
+Dpto y Muni Contratista                                0
+Tipo Doc Representante Legal                           0
+Identific del Represen Legal                           0
+Nombre del Represen Legal                              0
+Plazo de Ejec del Contrato                             0
+Rango de Ejec del Contrato                             0
+Tiempo Adiciones en Dias                               0
+Tiempo Adiciones en Meses                              0
+Compromiso Presupuestal                                0
+Cuantia Contrato                                       0
+Valor Total de Adiciones                               0
+Valor Contrato con Adiciones                           0
+Objeto del Contrato a la Firma                         0
+ID Origen de los Recursos                              0
+Origen de los Recursos                                 0
+Codigo BPIN                                            0
+Proponentes Seleccionados                              0
+Calificacion Definitiva                                0
+ID Sub Unidad Ejecutora                                0
+Nombre Sub Unidad Ejecutora                            0
+Ruta Proceso en SECOP I                                0
+dtype: int64
+FORMA DE LOS DATOS:
+(3064137, 51)
+
+TIPOS DE DATOS:
+Nivel Entidad                                      object
+Orden Entidad                                      object
+Nombre de la Entidad                               object
+NIT de la Entidad                                  object
+ID Tipo de Proceso                                 object
+Estado del Proceso                                 object
+Causal de Otras Formas de Contratacion Directa     object
+ID Regimen de Contratacion                        float64
+Regimen de Contratacion                            object
+ID Objeto a Contratar                               int64
+Objeto a Contratar                                 object
+Detalle del Objeto a Contratar                     object
+Tipo de Contrato                                   object
+Municipio Obtencion                                object
+Municipio Entrega                                  object
+Fecha de Cargue en el SECOP                        object
+Numero de Constancia                               object
+Numero de Proceso                                  object
+Numero del Contrato                                object
+Cuantia Proceso                                    object
+ID Grupo                                           object
+Nombre Grupo                                       object
+ID Familia                                          int64
+Nombre Familia                                     object
+ID Clase                                            int64
+Nombre Clase                                       object
+ID Ajudicacion                                      int64
+Tipo Identifi del Contratista                      object
+Identificacion del Contratista                     object
+Nom Raz Social Contratista                         object
+Dpto y Muni Contratista                            object
+Tipo Doc Representante Legal                       object
+Identific del Represen Legal                       object
+Nombre del Represen Legal                          object
+Plazo de Ejec del Contrato                        float64
+Rango de Ejec del Contrato                         object
+Tiempo Adiciones en Dias                            int64
+Tiempo Adiciones en Meses                           int64
+Compromiso Presupuestal                            object
+Cuantia Contrato                                  float64
+Valor Total de Adiciones                           object
+Valor Contrato con Adiciones                      float64
+Objeto del Contrato a la Firma                     object
+ID Origen de los Recursos                           int64
+Origen de los Recursos                             object
+Codigo BPIN                                         int64
+Proponentes Seleccionados                          object
+Calificacion Definitiva                            object
+ID Sub Unidad Ejecutora                            object
+Nombre Sub Unidad Ejecutora                        object
+Ruta Proceso en SECOP I                            object
+dtype: object
+
+DATOS NULOS:
+Nivel Entidad                                     0
+Orden Entidad                                     0
+Nombre de la Entidad                              0
+NIT de la Entidad                                 0
+ID Tipo de Proceso                                0
+Estado del Proceso                                0
+Causal de Otras Formas de Contratacion Directa    0
+ID Regimen de Contratacion                        0
+Regimen de Contratacion                           0
+ID Objeto a Contratar                             0
+Objeto a Contratar                                0
+Detalle del Objeto a Contratar                    0
+Tipo de Contrato                                  0
+Municipio Obtencion                               0
+Municipio Entrega                                 0
+Fecha de Cargue en el SECOP                       0
+Numero de Constancia                              0
+Numero de Proceso                                 0
+Numero del Contrato                               0
+Cuantia Proceso                                   0
+ID Grupo                                          0
+Nombre Grupo                                      0
+ID Familia                                        0
+Nombre Familia                                    0
+ID Clase                                          0
+Nombre Clase                                      0
+ID Ajudicacion                                    0
+Tipo Identifi del Contratista                     0
+Identificacion del Contratista                    0
+Nom Raz Social Contratista                        0
+Dpto y Muni Contratista                           0
+Tipo Doc Representante Legal                      0
+Identific del Represen Legal                      0
+Nombre del Represen Legal                         0
+Plazo de Ejec del Contrato                        0
+Rango de Ejec del Contrato                        0
+Tiempo Adiciones en Dias                          0
+Tiempo Adiciones en Meses                         0
+Compromiso Presupuestal                           0
+Cuantia Contrato                                  0
+Valor Total de Adiciones                          0
+Valor Contrato con Adiciones                      0
+Objeto del Contrato a la Firma                    0
+ID Origen de los Recursos                         0
+Origen de los Recursos                            0
+Codigo BPIN                                       0
+Proponentes Seleccionados                         0
+Calificacion Definitiva                           0
+ID Sub Unidad Ejecutora                           0
+Nombre Sub Unidad Ejecutora                       0
+Ruta Proceso en SECOP I                           0
+dtype: int64
+0
+['0' 'CUERPO DE BOMBERO VOLUNTARIOS DE YOPAL'
+ 'Collaborative Testing Services  Inc. (CTS)'
+ 'MAFRE SEGUROS DE COLOMBIA S.A' 'ATR TRAINING CENTER'
+ 'DAVENPORT AVIATION INC' 'SERGIO ANDRES LONDOÑO MONTOYA'
+ 'RESGUARDO INDIGENA PIJAO TOTARCO TAMARINDO MPIO COYAIMA'
+ 'UNION TEMPORAL  INTERPOLIDEPORTIVO' 'TOYOCAR´S LTDA.'
+ 'FLIGHTSAFETY INTERNATIONAL INC.' 'AVCO AVIATION CONSULTANS INC'
+ 'CONSORCIO CAMPO ALEGRE' 'DIANA MERCEDES LONDOÑO TORRES'
+ 'ALMACEN VETERINARIO EL GRANJERO'
+ 'INSTITUTO NACIONAL DE DE SALUD PUBLICA DE LOS ESTADOS UNIDOS MEXICANOS'
+ 'UNIÓN TEMPORAL SIS CONCURSO ADMINISTRACIÓN 2014' 'DESIERTO'
+ 'ATLANTIC AIRLINES SUPPLIERS  CORP' 'AERONAUTIC INVESTMENTS INC'
+ 'ESE HOSPITAL LAURA PERDOMO DE GARCIA' 'CONSORCIO AG ARQUITECTOS'
+ 'JUAN DE DIOS NIETO MANCILLA' 'CONSORCIO ARCO IRIS' 'GHEP-ISFG'
+ 'UNIVERSIDAD DE EDIMBURGO - ESCOCIA' 'THE CLAY MINERALS SOCIETY'
+ 'OSU ARGON GEOCHRONOLOGY LAB' 'La Universidad de Texas en Austin'
+ 'EL PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO'
+ 'FINANCIERA PARA EL DESARROLLO TERRITORIAL S.A. - FINDETER'
+ 'QUALITY ASSOCIATES INTERNATIONAL LTD' 'CONRSORCIO MR CONSULTORIA'
+ 'MINISTERIO DE SALUD Y PROTECCION SOCIAL'
+ 'FINANCIERA DE DESARROLOO NACIONAL'
+ 'MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL' 'GRUPO CEMPAC S.A.S'
+ 'KINEMETRICS INC' 'MATTIS AEROSPACE INC' 'HOSPITAL GILBERTO MEJÍA MEJÍA'
+ 'CONSORCIO FRIO 2016' 'OSCAR MARTINEZ BETANCUR'
+ 'CONSORCIO INTERPARQUES TUNJA 2013' 'PENIEL GROUP  LLC'
+ 'CONSORCIO INTERVENTORIA DE CONSTRUCCIÓN' 'Unión Temporal IDOM - SILO'
+ 'GLOBAL TRAINING AVIATION  SL.'
+ 'RADIATION SAFETY INFORMATION COMPUTATIONAL CENTER (RSICC)'
+ 'THE FRATELLI GROUP INC' 'VARIOS' 'RADIO CADENA NACIONAL S.A. RCN RADIO'
+ 'EMBRAER AIRCRAFY MAINTENANCE SERVICES  INC' 'ARIEL OSORIO HENAO'
+ 'FLAIR AVIATION GMBH' 'JUNTA DE ACCION COMUNAL VEREDA LA PALMA'
+ 'joaquin roberto rodelo ceballos' 'CELERAK  INC'
+ 'CONSORCIO POLIDEPORTIVO 2014' 'ORGANIZACIÓN PANAMERICANA DE LA SALUD'
+ 'CAMPO ELIAS PEDROZA VILLABON' 'GURALP SYSTEMS LIMITED' 'THOMSON REUTERS'
+ 'la Organización de Estados Iberoamericanos para la Educación  la Ciencia y la Cultura- OEI'
+ 'INVENTION NAVIGATOR PROFESSIONAL FLAT - FEE' 'KONCENTRA USA CORP'
+ 'CONSORCIO CEILSAS SUAN' 'POLICIA NACIONAL'
+ 'AGENCIA NACIONAL DE INFRAESTRUCTURA (ANI)' 'Luis Gerardo Valdes Romero'
+ 'CONSORCIO REFORZAMIENTO PD-15' 'BCN MEDICAL S.A.'
+ 'UNIÓN  TEMPORAL  VIAS  ARBOLETES  2011' 'INSTITUTO CATALAN DEL SUELO'
+ 'LA CORPORACION INTERNACIONAL DE CONCILIACIÓN  ARBITRAJE Y DEFENSA DE LOS DERECHOS FUNDAMENTALES...'
+ 'Electro Tv Partes' 'PROVEER INSTITUTO S.A.S.'
+ 'EMBRAER AVIATION INTERNATIONAL SAS' 'CONSORCIO GUAMAL 2011'
+ 'CICRET - EA S.A.S'
+ 'DECLARADO DESIERTO POR ERROR INVOLUNTARIO EN LA PUBLICAION DE OTROS DOCUMENTOS'
+ 'UNIÓN TEMPORAL SEPECOL ¿ TECNISEG' 'AGQ PERU S.A.C' 'BANCO DE BOGOTA.'
+ 'AVIATION INTERNATIONAL SOLUTION LLC' 'UNION TEMPORAL STS-ELLIPTICAL'
+ 'QBE SEGUROS' 'AEROPARTS AND RESOURCES CORP.' 'CONSORCIO CAMARAS EDCAR'
+ 'DEPARTAMENTO DE SEGURIDAD NACIONAL EE.UU /SERVICIOS DE MIGRACION Y CONTROL DE ADUANAS DE EE.UU.'
+ '5453 NW 24 ST- Suit No. 4 Margaret  FL 33063 US'
+ 'PROYECTA DE LA COSTA Y CÍA. LTDA'
+ 'UNION TEMPORAL GILBERTO ROBLEDO QUINTERO ASESORES DE SEGUROS & CIA. LTDA. ¿ LÓPEZ GÓMEZ Y CÍA LTDA'
+ 'AGENCIA DE ESTADOS UNIDOS PARA EL DESARROLLO INTERNACIONAL'
+ 'CONSORCIO PARQUE SALUDABLES' 'Acuerdo Marco'
+ 'CENTAURO COMUNICACIÓN Y MEDIOS'
+ 'UNIVERSIDAD PONTIFICA BOLIVARIANA SECCIONAL MONTERIA'
+ 'CLAUDIA PATRICIA CAICEDO MARTINEZ'
+ 'MUNICIPIOS DE CAUCASIA  CACERES  EL BAGRE  NECHI  TARAZA Y ZARAGOZA (ANTIOQUIA)'
+ 'Antonio Buitrago Jaramillo'
+ 'CONFERENCIA INTERAMERICANA DE SEGURIDAD SOCIAL CISS'
+ 'SERVICIOS POSTALES NACIONALES S.A REGIONAL EJE CAFETERO' 'INDUMAN LTDA.'
+ 'DESSER TIRE AND RUBBER CO  INC' 'ESE SALUD PEREIRA'
+ 'EMPRESA SOCIAL DEL ESTADO CENTRO DOS SOTARA'
+ 'AIRESOURCE INTERNATIONAL CORP' 'DISTRACOM S. A' 'FLO 2D SOFTWARE INC'
+ 'Rodrigo Arango Mazuera' 'CAJA DE RETIRO DE LAS FUERZAS'
+ 'PENIEL GROUP LLC' 'CONSORCIO ALIMENTANDO UN CESAR MAS EDUCADO'
+ 'INTERNATIONAL ASSOCIATION OF GEOANALYSTS (IAG)'
+ 'UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO' 'MIGUEL ANGEL PEÑATE'
+ 'OXIGENOS DE COLOMBIA' 'E.S.E HOSPITAL SAN MARCOS'
+ 'MUNICIPIO DE BARRANCABERMEJA' 'AEROTECHNIC-USA  INC'
+ 'INSTITUTO GEOLOGICO Y MINERO DE ESPAÑA - IGME'
+ 'Grupo Cempac S.a.s O Cesar Augusto Morales Cadavid'
+ 'UNIVERSIDAD DE TEXAS EN SAN ANTONIO UTSA' 'DOTACION INTEGRAL S.A.S.'
+ 'NEWSCOM TV PRODUCCIONES AUDIOVISUALES  S.L' 'MERIDIAN AERO SERVICES  LLC'
+ 'ALMACENES YEP S.A.'
+ 'INSTITUTO DE CULTURA Y TURISMO MUNICIPAL ¿INSCULTUCHI¿'
+ 'CONSTRUCSUELOS SUMINISTROS LTDA' 'INTERPID GEOSCIENCE'
+ 'ANDRES BUITRAGO CADAVID' 'CONSORCIO ECODISEÑO'
+ 'TERMALES DE SANTA ROSA DE CABAL' '-'
+ 'SENICA REFRIGERACION Y AIRE ACONDICIONADO' 'PRATT & WHITNEY CANADA CORP'
+ 'CONSORCIO ICA BUCARAMANGA'
+ 'La Agencia de los Estados Unidos para el Desarrollo Internacional (USAID)'
+ 'AGENCIA SUIZA PARA EL DESARROLLO Y LA COOPERACION'
+ 'OFICINA REGIONAL DE SEGURIDAD (RSO)  SERVICIOS DE SEGURIDAD DIPLOMATICO (DSS) DE LA OFICINA REGIONAL'
+ 'LUZ STELLA MENDOZA BUELVAS' 'FONADE' 'JETBLUE AIRWAYS CORPORATION'
+ 'ATR TRAINING CENTER SARL.' 'CABALA PRODUCCIONES LTDA.'
+ 'QUESTEL ORBIT INCORPORATED' 'AVIONS DE TRANSPORT REGIONAL ATR'
+ 'INSTITUTO COLOMBIANO AGROPECUARIO ¿ICA¿' 'CONSORCIO INTERESTRUCTURAS'
+ 'YOUNG AMERICAS BUSINESS TRUST' 'BANCO DAVIVIENDA S.A.'
+ 'UNIVERSAL TURBINE PARTS LLC.' 'MARTHA CLARENA BARRERO D.'
+ 'UNIVERSIDAD INTERNACIONAL DE LA RIOJA' 'YINETH BUSTILLO PARRA'
+ '13 MUNICIPIOS D CUNDINAMARCA' 'ANULADO'
+ 'AERO TRANSPORT ENGINEERING CONSULTING S.A.'
+ 'CONSORCIO INTERVENTORIA YAGUARA 2015' 'LA CORPORACIÓN ANDINA DE FOMENTO'
+ 'LA UNIÓN TEMPORAL DAPRE OTP' 'CUSTOM AERONATICAL SOLUTIONS LTDA.'
+ 'LIGA CONTRA EL CANCER' 'PROYECTOS AMBIENTALES' 'EL DEPARTAMENTO DEL META'
+ 'GE ENGINE SERVICES  LLC' 'UNIVERSITY OF ZURICH'
+ 'JUNTA ACCIÓN COMUNAL AREA URBANA'
+ 'DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADÍSTICA  - DANE'
+ 'CONSORCIO VIAS URBANAS GUAMAL'
+ 'FUNDACIÓN INTERNACIONAL Y PARA IBEROAMÉRICA DE ADMINISTRACION Y POLÍTICAS PÚBLICAS'
+ 'UNITED AEROSPACE CORPORATION' 'PERSONERIA MUNICIPAL DE MANIZALES'
+ 'ACPEM  LA AGENCIA ESPAÑOLA DE COOPERACiÓN INTERNACIONAL PARA EL DESARROLLO'
+ 'Organización para la Cooperación y el Desarrollo Económicos  - OCDE'
+ 'NELLY DE LA CRUZ DADUL' 'FONDO ADAPTACION'
+ 'SOCIEDAD PROMOTORA INTERNACIONAL DE TURISMO Y TRANSPORTE SERVICIO ESPECIAL S.A.S.'
+ 'LA EMPRESA EDL SISTEMA INTEGRADO DE TRANSPORTE DE VALLEDUPAR (SIVA S.A.S)'
+ 'DISEÑOS Y CONSTRUCCIONES S.A.' 'DURRIGE COMPANY ING' 'NN'
+ 'CUERPO DE BOMBEROS VOLUNTARIOS DE LEIVA'
+ 'INSTITUTO DE CULTURA RECREACION Y DEPORTES DEL COPEY' 'MERCAEREO INC'
+ 'UNION TEMPORAL LOPEZ GOMEZ Y COMPAÑÍA LTDA  SU ASESOR DE SEGUROS GILBERTO ROBLEDO Y COMPAÑÍA LTDA  A'
+ 'PERSONERÍA MUNICIPAL DE LA DORADA CALDAS' 'FASTCOL INC'
+ 'ATR AMERICAS INC.' 'ASAMBLEA DEPARTAMENTAL DEL HUILA'
+ 'Deutsche Bank Securities Inc./ Goldman  Sachs & Co.' 'Tintas Real'
+ 'CORPORACION UNIVERSITARIA DEL HUILA - CORHUILA'
+ 'EMBRAER AIRCRAFT MAINTENANCE SERVICES  INC'
+ 'CORPORACIÓN UNIVERSITARIA DE CIENCIA Y DESARROLLO - UNICIENCIA'
+ 'Phoenix Aircraft ATR 621 LEASING'
+ 'DEPARTAMENTO DE GUANIA y EL MUNICIPIO DE INIRIDA  (GUAINIA)'
+ 'DEPARTAMENTO ADMINISTRATIVO DE LA PRESIDENCIA DE LA REPÚBLICA'
+ 'AUTOS Y CAMPEROS DEL TOLIMA' 'MULTICONSECIONARIO E.U.'
+ 'MUNICIPIO DE IQUIRA - HUILA' 'COMTECH EF DATA CORP' 'IMPRESOS MEGACOLOR'
+ 'ARTESCO S.A.' 'Municipios de Cundinamarca' 'E.S.E HOSPITAL SANTA ANA'
+ 'DEPARTAMENTO DEL GUAINIA' 'CONSORCIO MONTERIA' 'Sodimac Colombia S.a.'
+ 'A-1 ANHERMA  LLC' 'MUNICIPIO TUNUNGUA'
+ 'DIRECCION EJECUTIVA SECCIONAL DE ADMINISTRACION JUDICIAL DE BUCARAMANGA'
+ 'UNIVERSIDAD LIBRE - SECCIONAL BARRANQUILLA' 'INTERNACIONAL DE ELECTRICOS'
+ 'AMOBLAR MUEBLES Y OFICINAS' 'EL CONSEJO REGIONAL INDIGENA DEL CAUCA CRIC'
+ 'LATIN AMERICAN FINANCIAL PUBLICATIONS INC' 'No aplica'
+ 'KOCENTRA USA CORP' 'CUSTOM AERONAUTICAL SOLUTIONS LTDA.'
+ 'HOSPITAL SAN JUAN DE DIOS' 'DIARIO DE CIRCULACIÓN NACIONAL'
+ 'QUALITY ASSOCIATES INTERNATIONAL LTDA'
+ 'INSTITUTO MUNICIPAL DEL DEPORTE LA CULTURA Y LA RECREACION'
+ 'MINESOFT GLOBAL PATENT SOLUTIONS' 'CONSORCIO SAN PEDRO'
+ 'CONSORCIO I&A INTERVENTORIA' 'GEORGINA ARRIETA GANDARA' 'ECLASS S.A'
+ 'LICENIA GALARZA HENAO'
+ 'PORTAFOLIO EMPRESARIAL Y TURISTICO DEL TOLIMA LTDA.'
+ 'CONSORCIO PROARCON 1502' 'REPRESENTACIONES TOLITUR LTDA.'
+ 'Jar Dotaciones Escolares'
+ 'UNIÓN INTERNACIONAL DE CIENCIAS GEOLÓGICAS IUGS' 'MUNICIPIO DE COYAIMA'
+ 'BANCO INTERAMERICANO DE DESARROLLO BID' 'UNION TEMPORAL TRANSET I.C.C.'
+ 'Universidad de Texas'
+ 'FUNDACION CENTRO DE ATENCIÓN  ESPERANZA Y VIDA - CAFEV'
+ 'LUIS DANIEL LOZANO BUSTILLO'
+ 'INSTITUTO NACIONAL DE INVESTIGACIONES NUCLEARES - ININ'
+ 'CONSORCIO INTER A&T'
+ 'INTERNATIONAL BANK OF RECONSTRUCTION AND DEVELOPMENT' 'DISTRACOM S.A'
+ 'LONJA DE PROFESIONALES AVALUADORES CAPITULO HUILA LONPA'
+ 'ESTADO DE COAHUILA DE ZARAGOZA MEXICO-SECRETARIA DE CULTURA'
+ 'U.T. MANTENIMIENTO VEHICULOS' 'ADOPOLIS' 'CASA EDITORIAL EL TIEMPO S.A'
+ 'MINISTERIO DE EDUCACION NACIONAL' 'UNION TEMPORAL ARQUITECTOS'
+ 'MINISTERIO DE CULTURA NACIONAL' 'Luis Albert O Arias'
+ 'SERVICENTRO LA GRAN VÍA E.U.'
+ 'GOBERNACION  MUNICIPIO DE CUCUTA  CORPONOR  E.I.S CUCUTA  GIZ  BAVARIA Y CAMARA DE COMERCIO'
+ 'RESOLUCIÓN ADMINISTRATIVA No. 067 (22 de Febrero de 2013)'
+ 'AVIC INTERNATIONAL AERO-DEVELOPMENT' 'ATLANTIC AIRLINES SUPPLIERS  CORP.'
+ 'AERO CENTURY CORP.' 'GEOTOOL BOX IBERICA SL'
+ 'MIDLAND VALLEY EXPLORATION LTDA'
+ 'REA METROPOLITANA CENTRO OCCIDENTE  (AMCO) Y MUNICIPIOS DE LA VIRGINIA Y DOSQUEBRADA'
+ 'TRANSPORTES Y SERVICIOS TEUSACA Y OTROS' 'CELERAK INC'
+ 'CARLOS MANUEL WANDURRAGA BARON' 'MERCAEREO INC.' 'BANCOLOMBIA S.A.'
+ 'CONSORCIO SEGURIDAD' 'CONSORCIO INTERVENTORIA CIC MOMIL'
+ 'COMTECH EF DATA'
+ 'DEPARTAMENTO DE CUNDINAMARCA- SECRETARIA DE INTEGRACION REGIONAL-LA CORPORACION SEDECOM Y LOS MUNICI'
+ 'AGENCIA NACIONAL MINERA' 'BIG PASS S.A.'
+ 'EL CONSEJO NACIONAL DE LAS MUJERES DE LA REPUBLICA DE ARGENTINA'
+ 'UNIVERSIDAD TECNOLOGICA DE PEREIRA'
+ 'ELS LANGUAGE CENTERS INTERNATIONAL PATHWAYS'
+ 'EMBRAER AIRCRAFT CUSTOMER SERVICES  INC.' 'JHONNATAN BENAVIDES HERNANDEZ'
+ 'CONSORCIO  MANTENIMIENTO VIAL RURAL Y URBANO 2014'
+ 'dairon cordoba martinez' 'MUNICIPIO DE PELAYA'
+ 'CENTRO INTERNACIONAL DE AGRICULTURA TROPICAL - CtA'
+ 'SGS NORTH AMERICA INC.' 'DIANA MARIA VASQUEZ OSORIO' 'FUNDACION JOPRAC'
+ 'GOBIERNO DE LA REPUBLICA DE ARGENTINA' 'CONSORCIO PLACAS DEPORTIVAS'
+ 'MARINO DE JESUS FERNANDEZ MOLINA' 'CONSORCIO DISEST'
+ 'CONSORCIO ZONA BANANERA' 'CONSORCO INTERPARQUES TUNJA 2013'
+ 'Texas University' 'MED AIR INC.'
+ 'PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO PNUD'
+ 'A.B. SEÑALIZACION SAS' 'CONSORCIO ARCALIA AULAS 06'
+ 'BENENSON STRATEGY GROUP  LLC' 'OPS/PANAFOTSA' 'FLAIR AVIATION GmbH'
+ 'UNIVERSIDAD DE RICE' 'CASA DE LA CULTURA' 'PROCESO DECLARADO DESIERTO'
+ 'AVIATION BRAKE SERVICES INC.' 'ESE LAURA PERDOMO DE GARCIA'
+ 'SERVICIOS Y MULTISUMINISTRO MAMC S.A.S.' 'SEARCH TECHNOLOGY  INC'
+ 'CAE Flightscape Incorporated' 'JUNTA ACCIÓN COMUNAL AREA RURAL'
+ 'WIPS INC' 'THE UNIVERSITY OF SHEFFIELD/ELTC'
+ 'CORPORACION DE COMUNICACIONES PARA EL DESARROLLO DE ENTRERRIOS'
+ 'DTI - DONATION & TRANSPLANTATION INSTITUTE FUNDACION PRIVADA'
+ 'LIZETH PEREZ SEPULVEDA'
+ 'FUNDACION UNIVERSIDAD DE BOGOTA JORGE TADEO LOZANO'
+ 'BANCO INTERNACIONAL DE RECONSTRUCCION Y DESARROLLO'
+ 'JUNTA DE ACCION CUMUNAL DEL CORREGIMIENTO DE LLERASCA'
+ 'CESAR AUGUSTO OSORIO CLAVIJO' 'COTRAUTOL LTDA.' 'banco de occidente s.a'
+ 'DISONY S.A' 'EBSCO INTERNATIONAL INC'
+ 'UNION TEMPORAL INFANCIA CARIBE 2015'
+ 'ESCUELA POLITECNICA NACIONAL DEL ECUADOR - INSTITUTO GEOFISICO'
+ 'INSTITUTO TECNOLOGICO METROPOLITANO ITM'
+ 'SIP SOFTWARE FOR INTELLECTUAL PROPERTY GMBH' 'MUNICIPIO DE GUAITARILLA'
+ 'LLANTAS E IMPORTACIONES SAGU S.A.S' 'UNIÓN TEMPORAL GUACAMAYAL'
+ 'CONSORCIO KILILI' 'CARTOGRAFICA DE CANARIAS S.A.'
+ 'JULIO CESAR CEBALLOS AYA' 'CLARA INES BOTERO CASTRILLON'
+ 'AEROTECHNIC-USA INC' 'UNION TEMPORAL YAGUARA'
+ 'UNIVERSIDAD JAVERIANA SECCIONA DE CALI'
+ 'E.S.E HOSPITAL SAN VICENTE DE PAUL DE FILANDIA QUINDIO'
+ 'SECRETARIADO NACIONAL DE PASTORAL SOCIAL' 'GRACIELA GARCIA PINTO'
+ 'TRANSPORTES ESPECIALES FSG E.U.' 'Moody s Investors Service'
+ 'CENTRAL HIDROELÉCTRICA DE CALDAS CHEC S.A. E.S.P.'
+ 'NELSON ARIAL RUGE AGUILERA'
+ 'PATROMONIO AUTONOMO  DE REMANTES ISS EN LIQUIDACION'
+ 'COMITÉ INTERNACIONAL PARA LA PETROLOGIA ORGANICA Y DEL CARBON'
+ 'INSTITUTO DE RECREACION Y DEPORTE IDRECHI'
+ 'ALCALDIA DISTRITAL DE BUENAVENTURA' 'JOHNS HOPKINS UNIVERSITY'
+ 'PYP S.A.S.' 'AEROPARTS & RESOURCES CORPORATION'
+ 'DIRECCION NACIONAL DE INTELIGENCIA' 'BARFIEL.INC' 'EL CIENTIFICO LOCO'
+ 'COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO'
+ 'GLOBAL TRAINING AVIATION  S.L.' 'HOSPITAL SAN JUAN DE DIOS E.S.P.'
+ 'SERVICIOS POSTALES NACIONALES S. A' 'KARINA MARIA RODRIGUEZ VERGARA'
+ 'UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS'
+ 'INSTITUTO LATINOAMERICANO DE LA COMUNICACIÓN EDUCATIVA - ILCE' 'EPM'
+ 'CONSORCIO BIENESTAR INTEGRAL AL ADULTO MAYOR'
+ 'CONSORCIO F & B INGENIERÍA' 'SERVICIOS POSTALES NACIONALES S.A'
+ 'DIDIER CALDERON RINCON' 'COMITE  AMBIENTAL MUNICIPAL'
+ 'OSMER RAMON CONTRERAS PEREZ'
+ 'ORGANIZACION DE ESTADOS IBEROAMERICANOS  PARA LA EDUCACION CIENCIA Y CULTURA'
+ 'SERVICIOS W.A.P.H.S.A.S' 'UNION TEMPORAL ACUATECH'
+ 'CONSORCIO TUPAC RAMPAS COMUNA 5' 'ORGANIZACIÓN INTERNACIONAL PARA LAS'
+ 'ATR TRAINING CENTER SARL' 'AVIATION BRAKE SERVICE  INC'
+ 'MUNICIPIO DE OROCUÉ - CASANARE' 'UNIÓN TEMPORAL CANDELARIA'
+ 'MUNICIPIO DE VILLAVICENCIO' 'UNIVERSIDAD JAVERIANA'
+ 'CONSORCIO FB INGENIERÍA' 'COMISIÓN DEL MAPA GEOLÓGICO DEL MUNDO - CCGM'
+ 'NAC AVIATION 18 LIMITED' 'NANOMETRICS INC'
+ 'BANCO AGRARIO DE COLOMBIA S.A' 'CONFECAMARAS' 'KENNEDYS AVIATION LLP'
+ 'COMPAÑIA NACIONAL DE  METROLOGIA SAS' 'DEPARTAMENTO DE BOYACA'
+ 'PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO (PNUD)'
+ 'BANCO OCCIDENTE S.A.' 'UNION TEMPORAL G&A']
+390
+0
+0
